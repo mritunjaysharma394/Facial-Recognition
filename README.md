@@ -2,7 +2,7 @@
 
 Clone the project.
 
-Add your photos in the same folder.
+Add your photos in the src>images folder.
 
 Open Command Prompt
 
