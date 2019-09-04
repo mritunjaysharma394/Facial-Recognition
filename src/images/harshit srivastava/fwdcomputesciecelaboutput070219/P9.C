@@ -1,0 +1,36 @@
+// 31-01-19 PROGRAM TO PRINT HELLO WORLD//
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+ printf("\n\n\t H \n\n\t E \n\n\t L \n\n\t L \n\nW\t O\tR\tL\tD");
+ getch();
+ }
+
+ OUTPUT :
+
+                                                                                
+         H                                                                      
+                                                                                
+         E                                                                      
+                                                                                
+         L                                                                      
+                                                                                
+         L                                                                      
+                                                                                
+W        O      R       L       D                                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

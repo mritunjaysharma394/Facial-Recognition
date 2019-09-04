@@ -1,0 +1,17 @@
+// PROGRAM TO FIND IF ENTERED CHARACTER IS VOWEL 21-02-19//
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+void main()
+{
+ clrscr();
+ char a;
+ printf("\n\n\n\t\t KINDLY ENTER A CHARACTER : ");
+ scanf("%c",&a);
+ tolower(a);
+ if(a=='a'|| a=='e'||a=='i'||a=='o'||a=='u')
+  printf("\n\n\n\t\t\t %c is a VOWEL",a);
+ else
+  printf("\n\n\n\t\t\t %c is a CONSONANT",a);
+ getch();
+}

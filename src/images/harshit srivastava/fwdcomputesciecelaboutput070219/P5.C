@@ -1,0 +1,36 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+ printf("H\t\t\t\t\t\t\t\tH\n \tE\t\t\t\t\t\tE\n \t\tL\t\t\t\tL\n \t\t\tL\t\tL\n \t\t\t\tO");
+ printf("\n\t\t\tL\t\tL \n\t\tL\t\t\t\tL \n\tE\t\t\t\t\t\tE \nH\t\t\t\t\t\t\t\tH");
+ getch();
+ }
+
+  OUTPUT :
+  H                                                               H
+        E                                               E                       
+                L                               L                               
+                        L               L                                       
+                                O                                               
+                        L               L                                       
+                L                               L                               
+        E                                               E                       
+H                                                               H
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

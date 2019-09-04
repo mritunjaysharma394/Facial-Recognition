@@ -1,0 +1,18 @@
+// 07-02-19 TO ADD TWO NUMBERS USING SCANF FUNCTION //
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+
+ float a,b;
+ clrscr();
+ printf("Kindly enter two words : ");
+ scanf("%f%f",&a,&b);
+ printf("\n The addition of ");
+ printf("%f",a);
+ printf(" and ");
+ printf("%f",b);
+ printf(" is : ");
+ printf("%f",a+b);
+ getch();
+ }

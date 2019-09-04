@@ -1,0 +1,32 @@
+// TO CALCULATE PARKING CHARGES OF VEHICLE (PROGRAM TYPE 1) 21-02-19 //
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ char T;
+ int hr;
+ printf("\n\n\n Vehicle Type : \n\t Truck or Bus : T \n\t Car or Jeep : C \n\t Bike or Scooter : S");
+ printf("\n\n\t\t Kindly use the following character for your vehicle\n\t\t and enter the type of your vehicle ");
+ scanf("%c",&T);
+ printf("\n\n Kindly enter the number of parking hours : ");
+ scanf("%d",&hr);
+ if(T=='T'||T=='t')
+  {
+   printf("\n Your total parking charge is : %d",hr*20);
+  }
+ else
+  {
+   if(T=='C'||T=='c')
+   {
+    printf("\n Your total parking charge is : %d",hr*10);
+   }
+   else
+   {
+    if(T=='S'||T=='s')
+    {
+     printf("\n Your total parking charge is : %d",hr*5);
+    }
+   }
+  }
+  getch();
+  }

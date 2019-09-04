@@ -1,0 +1,37 @@
+// 31-01-19 PROGRAM TO PRINT HELLO WORLD //
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+ printf("\n Hello World");
+ getch();
+}
+
+OUTPUT:
+
+ Hello World
+
+
+
+
+
+
+
+
+
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

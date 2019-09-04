@@ -1,0 +1,12 @@
+// 31-01-19 PROGRAM TO PRINT A GROCERY LIST//
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ clrscr();
+ printf("\n\n\n -------------------------------------");
+ printf("\n| ITEM \t\tQTY\tRATE \tTOTAL | \n|\t\t\t\t      | \n| BISCUITS \t 5 \t 50 \t 250  |  \n| COFFEE \t 2 \t 100 \t 200  | \n| SHAMPOO \t 1 \t 500 \t 500  | \n| BREAD \t 2 \t 40 \t 080  |");
+ printf("\t\t\t\n -------------------------------------");
+ getch();
+ }
